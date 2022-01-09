@@ -1,5 +1,5 @@
 # basic-blockchain
-This is a simple blockchain model which uses SHA256 encryption to create hashes for blocks and transactions.
+This is a simple blockchain model written in JavaScript which uses SHA256 encryption to create hashes for blocks and transactions.
 
 The blockchain module contains three classes: Transaction, Block, and Blockchain. These classes are used to define the structure and functionality of the blockchain.
 
